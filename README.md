@@ -1,5 +1,5 @@
 # calculadora-js
 Calculadora feita com HTML, CSS e JavaScript
 
-Status:Em desenvolvimento
+Status: Em desenvolvimento
 
